@@ -34,7 +34,7 @@ A powerful, offline-ready, funny, and feature-rich Python code playground inspir
 
 ## 📸 UI Preview
 
-> ![BroCode Compiler Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_LINK.png)  
+> ![BroCode Compiler Screenshot](./screenshot.png)  
 *(replace with your real image link if available)*
 
 
